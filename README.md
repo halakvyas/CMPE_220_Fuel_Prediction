@@ -1,2 +1,3 @@
-# CMPE_220_Loan_application_analysis
-Train and evaluate a data set model using Logistic Regression Model using Jupyter with R programming.
+# CMPE_220_Fuel_Prediction_Analysis
+Regression Algorithm is udes to predict the fuel efficiency depending on Car's parameters. 
+Coded in Python, using Tensorflow package via Jupyter Notebook.
